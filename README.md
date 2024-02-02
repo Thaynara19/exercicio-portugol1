@@ -1,4 +1,4 @@
-# exercicio-portugol1
+# exercicio1
 
 programa
 {
